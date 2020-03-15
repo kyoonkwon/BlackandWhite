@@ -107,7 +107,7 @@ class BlackAndWhite extends React.Component {
                         <div className="menu">
                             <h1>흑 과 백</h1>
                             <div><a href="https://namu.wiki/w/%EB%8D%94%20%EC%A7%80%EB%8B%88%EC%96%B4%EC%8A%A4:%EB%A3%B0%20%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%BB%A4/11%ED%99%94#s-2"
-                                    target="_blank" rel="noopener">rule</a></div>
+                                    target="_blank" rel="noopener noreferrer">rule</a></div>
                             <h4>방 만들기</h4>
                             <button id="new" onClick={this.createGame}>New Game</button>
                             <br /><br />
