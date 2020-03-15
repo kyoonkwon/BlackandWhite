@@ -15,8 +15,8 @@ Demo play page is closed
 
 ## Screenshot
 
-![main](./images/main.png)
-![player1](./images/player1.png)
-![gamestart](./images/gamestart.png)
-![gameend](./images/gameend.png)
-![result](./images/result.png)
+![main](images/main.PNG)
+![player1](images/player1.PNG)
+![gamestart](images/gamestart.PNG)
+![gameend](images/gameend.PNG)
+![result](images/result.PNG)
